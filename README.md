@@ -19,8 +19,8 @@ This project is a simple Go webcrawler designed to fetch historical stock prices
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/go-webcrawler.git
-    cd go-webcrawler
+    git clone https://github.com/yourusername/go-stocks-webcrawler.git
+    cd go-stocks-webcrawler
     ```
 
 2. Install the necessary libraries:
